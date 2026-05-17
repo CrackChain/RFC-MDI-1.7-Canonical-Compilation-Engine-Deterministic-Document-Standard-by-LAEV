@@ -1,0 +1,2 @@
+# RFC-MDI-1.7-Canonical-Compilation-Engine-Deterministic-Document-Standard-by-LAEV
+Motor determinista para compilación de documentos técnicos bajo estándar RFC-MDI-1.7. Implementa forma canónica, validación estructural, consistencia semántica y generación de hash único. Diseñado por Lerry Alexander Elizondo Villalobos (LAEV) como sistema formal verificable, sin ambigüedad ni interpretación subjetiva lógica.
